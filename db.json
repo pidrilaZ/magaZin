@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Олександр Петренко",
+      "email": "opetrenko@example.com",
+      "role": "seller"
+    },
+    {
+      "id": 2,
+      "name": "Марія Іванченко",
+      "email": "mivanchenko@example.com",
+      "role": "seller"
+    },
+    {
+      "id": 3,
+      "name": "Ігор Коваль",
+      "email": "ikovall@example.com",
+      "role": "seller"
+    },
+    {
+      "id": 4,
+      "name": "Анна Гордієнко",
+      "email": "agordiienko@example.com",
+      "role": "seller"
+    },
+    {
+      "id": 5,
+      "name": "Дмитро Шевченко",
+      "email": "dshevchenko@example.com",
+      "role": "seller"
+    }
+  ],
+  "products": [
+    { "id": 1, "name": "Смартфон Samsung Galaxy S24", "price": 32000, "category": "smartphones", "user_id": 1 },
+    { "id": 2, "name": "Ноутбук Apple MacBook Air M2", "price": 48000, "category": "laptops", "user_id": 2 },
+    { "id": 3, "name": "Планшет Lenovo Tab P11", "price": 12000, "category": "tablets", "user_id": 3 },
+    { "id": 4, "name": "Монітор LG 27UL500", "price": 8500, "category": "monitors", "user_id": 4 },
+    { "id": 5, "name": "Навушники Sony WH-1000XM5", "price": 14500, "category": "audio", "user_id": 5 },
+    { "id": 6, "name": "Клавіатура Logitech MX Keys", "price": 3900, "category": "peripherals", "user_id": 1 },
+    { "id": 7, "name": "Миша Razer DeathAdder V3", "price": 2200, "category": "peripherals", "user_id": 2 },
+    { "id": 8, "name": "Телевізор Samsung QLED 55\"", "price": 28000, "category": "tv", "user_id": 3 },
+    { "id": 9, "name": "Колонка JBL Charge 5", "price": 5200, "category": "audio", "user_id": 4 },
+    { "id": 10, "name": "Маршрутизатор TP-Link Archer AX55", "price": 3600, "category": "network", "user_id": 5 },
+    { "id": 11, "name": "SSD Samsung 980 Pro 1TB", "price": 4200, "category": "storage", "user_id": 1 },
+    { "id": 12, "name": "HDD Seagate Barracuda 2TB", "price": 1900, "category": "storage", "user_id": 2 },
+    { "id": 13, "name": "Ігрова приставка PlayStation 5", "price": 21000, "category": "gaming", "user_id": 3 },
+    { "id": 14, "name": "Контролер DualSense", "price": 2600, "category": "gaming", "user_id": 4 },
+    { "id": 15, "name": "Екшн-камера GoPro Hero 12", "price": 14000, "category": "cameras", "user_id": 5 },
+    { "id": 16, "name": "Фотоапарат Canon EOS R10", "price": 35000, "category": "cameras", "user_id": 1 },
+    { "id": 17, "name": "Розумний годинник Apple Watch Series 9", "price": 17000, "category": "wearables", "user_id": 2 },
+    { "id": 18, "name": "Фітнес-браслет Xiaomi Mi Band 8", "price": 1500, "category": "wearables", "user_id": 3 },
+    { "id": 19, "name": "Проектор Epson EH-TW7000", "price": 38000, "category": "projectors", "user_id": 4 },
+    { "id": 20, "name": "Бездротова зарядка Anker 533", "price": 1200, "category": "accessories", "user_id": 5 }
+  ]
+}
