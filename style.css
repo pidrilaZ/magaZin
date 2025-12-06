@@ -11,7 +11,11 @@ main {
     margin: 2rem auto;
     padding: 0 1rem;
     border-radius: 8px;
+
     
+}
+header{
+    text-align: center;
 }
 body{
 background-color: rgb(73, 27, 27);
